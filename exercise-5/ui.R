@@ -24,7 +24,6 @@ shinyUI(fluidPage(
       #selectInput for Agree or Disagree
       #inputID = thoughts
       
-      
     ),
     
     # Show a plot of the generated distribution
